@@ -302,7 +302,7 @@ downloader(manifest_url, manifest_file)
 # check the hash of the incoming manifest file and bail if the hash doesn't match.
 hash_file(manifest_file, manifest_hash)
 
-print "\n***** DINOBUILDR IS BUILDING. RAWR. *****\n"
+print "\n***** DINOBUILDR IS TWERKING. RAWR. *****\n"
 print "Building against the [%s] branch and the %s manifest\n" % (branch, manifest)
 # we read the manifest file and examine each object in it. if the object is a
 # .pkg file, then we assemble the download url of the pointer, read the pointer
